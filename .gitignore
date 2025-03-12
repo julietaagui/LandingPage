@@ -1,4 +1,4 @@
-# Logs
+# Archivos a ignorar
 logs
 *.log
 npm-debug.log*
@@ -8,9 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+- dist
 dist-ssr
 *.local
+
 
 # Editor directories and files
 .vscode/*
