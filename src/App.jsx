@@ -12,7 +12,7 @@ function App() {
       <Nav/>
       <div className='container'>
         <div className="card m-4">
-          <img src="../src/assets/banner1.jpg" class="card-img" alt=""/>
+          <img src="/banner1.jpg" class="card-img" alt=""/>
         </div>
         <div className='position-relative py-2 px-4 position-absolute start-50 translate-middle'>
           <button className='btn btn-pri d-flex mt-5'>Contactame</button>
