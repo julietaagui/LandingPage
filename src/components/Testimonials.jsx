@@ -4,19 +4,19 @@ export default function Testimoniales(){
         {
             id: 1,
             name: "Laura Aguilar",
-            img: "/persona1.jpg",
+            img: "../src/assets/persona1.jpg",
             description: "Hemos estado trabajando con Nombre durante el año pasado y hemos visto un aumento significativo en el tráfico del sitio web y en los clientes potenciales como resultado de sus esfuerzo"
         },
         {
             id: 2,
             name: "Juana Martinez",
-            img: "/persona02.jpg",
+            img: "../src/assets/persona02.jpg",
             description: "Hemos estado trabajando con Nombre durante el año pasado y hemos visto un aumento significativo en el tráfico del sitio web y en los clientes potenciales como resultado de sus esfuerzo"
         },
         {
             id: 3,
             name: "Guadalupe Aguilar",
-            img: "/persona03.jpg",
+            img: "../src/assets/persona03.jpg",
             description: "Hemos estado trabajando con Nombre durante el año pasado y hemos visto un aumento significativo en el tráfico del sitio web y en los clientes potenciales como resultado de sus esfuerzo"
         },
     ]
